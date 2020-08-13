@@ -1,8 +1,8 @@
 ## Hi! I'm Justin, an entrepreneur, developer, and musician.
 
-- 🚀 I’m currently working on [Focal][focal]!
-- 🌱 I’m currently learning mobile development with Flutter!
-- ⚡ Fun fact: I love jazz!
+- 🚀 I’m currently working on [Focal][focal]
+- 🌱 Learning mobile development with Flutter
+- 💻 I do front-end stuff with React, Flutter, and Firebase
 
 ### Connect with me:
 
@@ -20,6 +20,8 @@
 <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://img.icons8.com/plasticine/100/000000/react.png" />
 <img align="left" alt="Flutter" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png" />
+<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
+<img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/48/000000/firebase.png" />
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/ios-glyphs/30/000000/github.png" />
 
