@@ -30,7 +30,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=justinsunyt&hide=issues&count_private=true&show_icons=true&hide_border=true" />
+<img align="left" alt="justinsunyt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=justinsunyt&hide=issues&count_private=true&show_icons=true&hide_border=true" />
 
 [website]: https://justinsun.me
 [youtube]: https://www.youtube.com/channel/UCq52u1VcV_IyI8TYgNqWZMg
