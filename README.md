@@ -1,8 +1,8 @@
-## Hi! I'm Justin, an entrepreneur, developer, and musician.
+## Hi! I'm Justin, an entrepreneur, developer, and creator.
 
 - 🚀 I’m currently working on [Focal][focal]
 - 🌱 Learning mobile development with Flutter
-- 💻 I do front-end stuff with React, Flutter, and Firebase
+- 💻 Full-stack with React, Flutter, and Firebase
 
 ### Connect with me:
 
