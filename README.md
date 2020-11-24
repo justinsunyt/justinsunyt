@@ -33,4 +33,4 @@
 [website]: https://justinsun.me
 [youtube]: https://www.youtube.com/channel/UCq52u1VcV_IyI8TYgNqWZMg
 [linkedin]: https://linkedin.com/in/justinsunyt
-[focal]: https://focal.technology
+[focal]: https://getfocal.app
