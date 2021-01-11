@@ -1,6 +1,6 @@
 ## Hey! I’m Justin, an entrepreneur, developer, and creator.
 
-- 🚀 I’m currently working on [Focal][focal]
+- 🚀 I am working on [Focal][focal]
 - 💻 I do full-stack development with React, Flutter, and Firebase
 
 ### Connect with me:
@@ -28,6 +28,6 @@
 
 <img align="left" alt="justinsunyt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=justinsunyt&hide=issues,contribs&count_private=true&show_icons=true" />
 
-[focal]: https://focal.technology
+[focal]: https://getfocal.app
 [linkedin]: https://linkedin.com/in/justinsunyt
 [website]: https://justinsun.me
