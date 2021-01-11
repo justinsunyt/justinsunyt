@@ -1,6 +1,6 @@
 ## Hey! I’m Justin, an entrepreneur, developer, and creator.
 
-- 🚀 I am working on [Focal][focal]
+- 🚀 I'm working on [Focal][focal]
 - 💻 I do full-stack development with React, Flutter, and Firebase
 
 ### Connect with me:
