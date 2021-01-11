@@ -1,14 +1,12 @@
-## Hi! I'm Justin, an entrepreneur, developer, and musician.
+## Hey! I’m Justin, an entrepreneur, developer, and creator.
 
 - 🚀 I’m currently working on [Focal][focal]
-- 🌱 Learning mobile development with Flutter
-- 💻 I do front-end stuff with React, Flutter, and Firebase
+- 💻 I do full-stack development with React, Flutter, and Firebase
 
 ### Connect with me:
 
-[<img align="left" alt="justinsun.me" width="26px" src="https://img.icons8.com/material-rounded/48/000000/globe--v1.png" />][website]
-[<img align="left" alt="Justin Sun | YouTube" width="26px" src="https://img.icons8.com/ios-filled/48/000000/youtube-play.png" />][youtube]
 [<img align="left" alt="Justin Sun | LinkedIn" width="26px" src="https://img.icons8.com/android/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="justinsun.me" width="26px" src="https://img.icons8.com/material-rounded/48/000000/globe--v1.png" />][website]
 
 <br />
 
@@ -30,7 +28,6 @@
 
 <img align="left" alt="justinsunyt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=justinsunyt&hide=issues,contribs&count_private=true&show_icons=true" />
 
-[website]: https://justinsun.me
-[youtube]: https://www.youtube.com/channel/UCq52u1VcV_IyI8TYgNqWZMg
-[linkedin]: https://linkedin.com/in/justinsunyt
 [focal]: https://focal.technology
+[linkedin]: https://linkedin.com/in/justinsunyt
+[website]: https://justinsun.me
