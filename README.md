@@ -23,11 +23,6 @@
 <img align="left" alt="Python" width="24px" src="https://img.icons8.com/color/48/000000/python.png" />
 <img align="left" alt="Firebase" width="24px" src="https://img.icons8.com/color/48/000000/firebase.png" />
 
-<br />
-<br />
-
-<img align="left" alt="justinsunyt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=justinsunyt&hide=issues,contribs&count_private=true&show_icons=true" />
-
 [focal]: https://getfocal.app
 [linkedin]: https://linkedin.com/in/justinsunyt
 [website]: https://justinsun.me
