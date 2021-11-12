@@ -2,7 +2,7 @@
 
 - 🚀 Building [Focal][focal]
 - 😈 Learning web3 with Solidity
-- 💻 React, Flutter, Firebaset
+- 💻 React, Flutter, Firebase
 
 ### Connect with me:
 
