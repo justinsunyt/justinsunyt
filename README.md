@@ -1,4 +1,4 @@
-## Hey! I’m Justin, an entrepreneur, developer, and creator.
+## Hey! I'm Justin.
 
 - 🚀 Connecting students with [Interverse][interverse]
 - 😈 Getting things done with [Focal][focal]
