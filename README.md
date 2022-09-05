@@ -2,7 +2,7 @@
 
 - 🚀 Connecting students with [Interverse][interverse]
 - 😈 Getting things done with [Focal][focal]
-- 💻 React, Flutter, AWS Amplify, Solidity
+- 💻 Flutter, React, AWS Amplify, Solidity
 
 ### Connect with me:
 
