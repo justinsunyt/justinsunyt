@@ -1,15 +1,4 @@
-## Hey! I'm Justin.
-
-- 🚀 Connecting students with [Interverse][interverse]
-- 😈 Getting things done with [Focal][focal]
-- 💻 Flutter, React, AWS Amplify, Solidity
-
-### Connect with me:
-
-[<img align="left" alt="Justin Sun | LinkedIn" width="24px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="justinsun.me" width="24px" src="https://img.icons8.com/fluency/48/000000/globe.png" />][website]
-
-[interverse]: https://interversemedia.org
-[focal]: https://getfocal.app
-[linkedin]: https://linkedin.com/in/justinsunyt
-[website]: https://justinsun.me
+<div>Justin Sun 孙盈廷</div>
+<div>CS + Wharton @ UPenn M&T</div>
+<div>NYC, Philly, LA, Shanghai</div>
+<div><a href="https://twitter.com/justinsunyt">Twitter</a> | <a href="https://linkedin.com/in/justinsunyt">LinkedIn</a> | <a href="https://justinsun.me">Website</a></div>
