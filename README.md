@@ -1,4 +1,4 @@
-<div>Justin Sun 孙盈廷</div>
-<div>CS + Wharton @ UPenn M&T</div>
-<div>NYC, Philly, LA, Shanghai</div>
-<div><a href="https://twitter.com/justinsunyt">Twitter</a> | <a href="https://linkedin.com/in/justinsunyt">LinkedIn</a> | <a href="https://justinsun.me">Website</a></div>
+<div>justin sun 孙盈廷</div>
+<div>building @ multion</div>
+<div>cs + wharton @ upenn m&t</div>
+<div><a href="https://twitter.com/justinsunyt">twitter</a> | <a href="https://linkedin.com/in/justinsunyt">linkedin</a> | <a href="https://justinsun.me">website</a></div>
